@@ -1,16 +1,56 @@
-## Hi there 👋
+<p align="center">
+  <img src="TU_URL_DE_IMAGEN" alt="banner" width="100%" />
+</p>
 
-<!--
-**Guille1260/Guille1260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"> 👋 Web Fullstack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/fairyland0926">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Soy un desarrollador web Full Stack con más de 5 años de experiencia creando aplicaciones eficientes, escalables y atractivas. Me apasiona el desarrollo de software y estoy constantemente aprendiendo nuevas tecnologías para mantenerme actualizado en este mundo cambiante.
+
+## 🛠️ Tecnologías que uso
+
+- **Frontend:** HTML, CSS, JavaScript, React, Vue
+- **Backend:** Node.js, Express, Django
+- **Base de datos:** MongoDB, PostgreSQL, MySQL
+- **Otros:** Git, Docker, Firebase, REST APIs
+
+## 📦 Proyectos Destacados
+
+- **Proyecto 1:** Aplicación de gestión de tareas con React + Node.js  
+- **Proyecto 2:** E-commerce completo con autenticación y carrito  
+- **Proyecto 3:** Dashboard en tiempo real con WebSockets  
+
+## 📚 Siempre aprendiendo
+
+Actualmente me encuentro aprendiendo sobre:
+
+- TypeScript
+- DevOps (CI/CD, AWS, Docker)
+- Arquitectura de microservicios
+
+## 🤝 Contribuciones
+
+¡Estoy abierto a colaborar en proyectos interesantes! Si tienes una idea y necesitas ayuda, no dudes en escribirme.
+
+## 📫 Cómo contactarme
+
+- GitHub: [@fairyland0926](https://github.com/fairyland0926)  
+- LinkedIn: *(Agrega tu perfil aquí si quieres)*  
+- Email: *(Tu correo, opcional)*  
+
+## 📝 Licencia
+
+Este proyecto está bajo la Licencia MIT. Puedes usarlo libremente.
+
+---
+
