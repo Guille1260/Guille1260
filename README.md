@@ -3,50 +3,91 @@
 </p>
 
 
-
-
-
-
----
-
 ## 🚀 Sobre mí
 
-Soy un desarrollador web Full Stack con más de 5 años de experiencia creando aplicaciones eficientes, escalables y atractivas. Me apasiona el desarrollo de software y estoy constantemente aprendiendo nuevas tecnologías para mantenerme actualizado en este mundo cambiante.
-
-## 🛠️ Tecnologías que uso
-
-- **Frontend:** HTML, CSS, JavaScript, React, Vue
-- **Backend:** Node.js, Express, Django
-- **Base de datos:** MongoDB, PostgreSQL, MySQL
-- **Otros:** Git, Docker, Firebase, REST APIs
-
-## 📦 Proyectos Destacados
-
-- **Proyecto 1:** Aplicación de gestión de tareas con React + Node.js  
-- **Proyecto 2:** E-commerce completo con autenticación y carrito  
-- **Proyecto 3:** Dashboard en tiempo real con WebSockets  
-
-## 📚 Siempre aprendiendo
-
-Actualmente me encuentro aprendiendo sobre:
-
-- TypeScript
-- DevOps (CI/CD, AWS, Docker)
-- Arquitectura de microservicios
-
-## 🤝 Contribuciones
-
-¡Estoy abierto a colaborar en proyectos interesantes! Si tienes una idea y necesitas ayuda, no dudes en escribirme.
-
-## 📫 Cómo contactarme
-
-- GitHub: [@fairyland0926](https://github.com/fairyland0926)  
-- LinkedIn: *(Agrega tu perfil aquí si quieres)*  
-- Email: *(Tu correo, opcional)*  
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Puedes usarlo libremente.
+- Estudiante de Ingeniería en Sistemas de Información en UTN – FR Tucumán  
+- Desarrollador Web Full Stack ( completado y certificado)  
+- Analista de Datos (completado y certificado)  
+- Apasionado por la tecnología y la programación, siempre en busca de nuevos desafíos y aprendizaje continuo para crecer profesionalmente. 🚀
 
 ---
+
+## 🛠️ Proyectos
+
+Aquí algunos de los proyectos en los que he trabajado o estoy desarrollando:
+
+- 🎯 **Nombre del Proyecto** – breve descripción del proyecto. [Repositorio](#)
+- 💼 **Nombre del Proyecto** – breve descripción del proyecto. [Repositorio](#)
+- 🧪 **Nombre del Proyecto** – breve descripción del proyecto. [Repositorio](#)
+
+> *(Agrega los enlaces reales de tus repositorios o portafolio)*
+
+---
+
+## 🧠 Skills
+
+### 🖥️ Frontend
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- React.js
+- Bootstrap / Tailwind CSS
+
+### ⚙️ Backend
+
+- Python
+- Django
+- Node.js
+- Express.js
+- MongoDB / PostgreSQL
+- MySQL
+- Sequelize / Mongoose
+
+---
+
+## 📚 En constante formación
+
+Actualmente sigo capacitándome en:
+
+- Desarrollo Web Full Stack (Plataforma/Carrera)
+- TypeScript
+- Git y control de versiones
+- Buenas prácticas de desarrollo
+- Testing y metodologías ágiles
+
+---
+## 📬 Contacto
+
+Podés encontrarme en:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 📧 Email: tuemail@gmail.com  
+- 🌐 [Portfolio personal](https://tu-portfolio.com) *(opcional)*
+
+---
+## 📊 Mis GitHub Stats
+
+<p align="center">
+  <!-- Total commits, PRs, issues, stars -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Guille1260&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guille1260&layout=compact&theme=radical" alt="Top Lenguajes" />
+</p>
+
+---
+
+## 🔥 Racha de contribuciones
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guille1260&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+
+
+
+
+<h2 align="center">¡Gracias por visitar mi perfil! 😊</h2>
+
 
