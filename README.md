@@ -6,7 +6,7 @@
 ## 🚀 Sobre mí
 
 - Estudiante de Ingeniería en Sistemas de Información en UTN – FR Tucumán  
-- Desarrollador Web Full Stack ( completado y certificado)  
+- Desarrollador Web   
 - Analista de Datos (completado y certificado)  
 - Apasionado por la tecnología y la programación, siempre en busca de nuevos desafíos y aprendizaje continuo para crecer profesionalmente. 🚀
 
@@ -30,7 +30,7 @@ Aquí algunos de los proyectos en los que he trabajado o estoy desarrollando:
 - HTML5 / CSS3
 - JavaScript (ES6+)
 - React.js
-- Bootstrap / Tailwind CSS
+- Bootstrap 
 
 ### ⚙️ Backend
 
@@ -48,9 +48,8 @@ Aquí algunos de los proyectos en los que he trabajado o estoy desarrollando:
 
 Actualmente sigo capacitándome en:
 
-- Desarrollo Web Full Stack (Plataforma/Carrera)
+- Desarrollo Web Full Stack
 - TypeScript
-- Git y control de versiones
 - Buenas prácticas de desarrollo
 - Testing y metodologías ágiles
 
@@ -59,9 +58,9 @@ Actualmente sigo capacitándome en:
 
 Podés encontrarme en:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 📧 Email: tuemail@gmail.com  
-- 🌐 [Portfolio personal](https://tu-portfolio.com) *(opcional)*
+- 💼 [LinkedIn] 
+- 📧 Email: 
+- 🌐 [Portfolio personal]
 
 ---
 ## 📊 Mis GitHub Stats
