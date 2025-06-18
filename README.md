@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/zDNccuI.png" alt="banner" width="100%" />
-</p>
+
 
 
 ## 🚀 Sobre mí
