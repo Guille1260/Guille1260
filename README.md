@@ -1,12 +1,12 @@
-# 👋 ¡Ey! Soy Guillermo Acuña
+# 👋 ¡Holaa! Soy Guillermo Acuña
 
-Soy **desarrollador web**, curioso y autodidacta. Me encanta aprender por mi cuenta, romper cosas (para entender cómo funcionan 😅) y personalizar todo lo que uso. Últimamente me estoy metiendo de lleno en el mundo de la **ciberseguridad** 🕵️‍♂️💻.
+Soy **desarrollador web y de sofware**, curioso y autodidacta. Me encanta aprender por mi cuenta, romper cosas (para entender cómo funcionan 😅) y personalizar todo lo que uso. Últimamente me estoy metiendo de lleno en el mundo de la **ciberseguridad** 🕵️‍♂️💻.
 
 ## 🎓 Formación
 
 Actualmente estudio **Ingeniería en Sistemas**, combinando lo académico con mucho aprendizaje autodidacta. 
 
-## 🧠 Lo que ya tengo bajo el cinturón
+## 🧠 Cursos
 
 - ✅ Curso completo de **Python** 
 - ✅ Curso completo de **SQL**: consultas, joins, normalización, etc.
