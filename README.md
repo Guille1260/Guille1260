@@ -17,6 +17,7 @@ Actualmente estudio **Ingeniería en Sistemas**, combinando lo académico con mu
 ## 🔍 Explorando ahora
 
 - 🔐 Fundamentos de **ciberseguridad**: redes, vulnerabilidades, buenas prácticas
+- 🔐 Analista en Ciberseguridad
 - 🎨 Diseño visual con Figma y wireframes
 
 
